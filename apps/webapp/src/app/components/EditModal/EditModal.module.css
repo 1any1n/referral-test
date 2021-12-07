@@ -1,0 +1,12 @@
+.form {
+	width: 400;
+	background-color: white;
+	padding: 20px 40px;
+	max-height: 480px;
+	overflow: scroll;
+	flex-wrap: nowrap !important;
+}
+
+.inputWrapper {
+	margin: 10px 0;
+}
